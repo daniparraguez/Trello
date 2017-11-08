@@ -1,0 +1,43 @@
+body{
+	background-color: #1D8DC2;
+	margin:0;
+}
+
+header .topbar{
+	height: 2.5em;
+	width: 100%;
+	background-color: #026AA7;
+	position: fixed;
+	
+}
+.tablero{
+	position: absolute;
+	left: 7%;
+}
+.search{
+	height: 1.8em;
+	width: 8em;
+	background-color: #67A6CA;
+	position: absolute;
+	left: 15%;
+	bottom: 15%;
+	border-radius: 0.1em;
+}
+
+.trello-logo{
+	height: 2em;
+	width: auto;
+	position: absolute;
+	left:45%;
+	top:15%;
+}
+.fa{
+	color:white;
+	position: relative;
+	top: 20%;
+	left:80%;
+}
+.profile{
+	position: absolute;
+	left: 75%;
+}
